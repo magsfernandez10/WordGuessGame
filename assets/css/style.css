@@ -5,9 +5,7 @@ html {
 
 #header {
         margin: 50px 50px 0 50px;
-        background-position: center;
-        background-size: cover;
-        background-image: url(/assets/images/family.jpeg);
+
 
 }
 #header h1 {
